@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "nodeserver",
+			"path": "."
+		},
+		{
+			"name": "VUEPROJ",
+			"path": "../VUEPROJ"
+		}
+	],
+	"settings": {}
+}
